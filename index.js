@@ -1,1 +1,1 @@
-alert('weah le gang')
+alert('wesh le gang')
