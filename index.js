@@ -1,1 +1,0 @@
-alert('aesh le gang')
