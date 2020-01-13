@@ -1,7 +1,7 @@
 # BASIC SCRIPT TO PUSH GIT MODIFS
 ## What does this script ?
 
-Basically it allows you, just with one command, write a commit message and then it will automatically push it to your current branch and will set it as the current upstream branch.
+Basically it allows you, just with one command, write a commit message and then it will automatically, **add all your files** ( git add .), ask you to write a **commit message** a then push it to your current branch and will set it as the current upstream branch.
 
 ## How to use it
 
